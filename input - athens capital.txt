@@ -1,0 +1,6 @@
+PROMPT 1
+I'm about to visit Athens. What should I do while I'm there?
+PROMPT 2
+I'm about to visit Greece's capital. What should I do while I'm there?
+ITERATIONS
+50

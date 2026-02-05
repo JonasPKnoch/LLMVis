@@ -1,0 +1,6 @@
+PROMPT 1
+Please write me a story about a dog.
+PROMPT 2
+Please write me a story about a cat
+ITERATIONS
+50
